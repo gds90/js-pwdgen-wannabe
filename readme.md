@@ -15,7 +15,9 @@ Suddividete il problema in sottoproblemi come vi ho fatto vedere per il live cod
 <!--  -->
 
 SOTTOPROBLEMI:
-- Permettere all'utente di inserire il suo nome;
-- Permettere all'utente di inserire il suo cognome;
-- Permettere all'utente di inserire il suo colore preferito;
-- Mostrare in HTML la congiunzione tra nomecognomecolorepreferito23;
+- Permettere all'utente di inserire il suo nome ed assegnare tale valore ad una variabile;
+- Permettere all'utente di inserire il suo cognome ed assegnare tale valore ad una variabile;
+- Permettere all'utente di inserire il suo colore preferito ed assegnare tale valore ad una variabile;
+- Concatenare i 3 valori contenuti nelle variabili in un nuovo valore, aggiungendo anche il numero 23, ed assegnarlo ad una nuova variabile.
+- Recuperare l'elemento html con id "passw".
+- Di questo elemento prendere la prioprietà innerHTML ed assegnargli il valore delle nuova variabile.
